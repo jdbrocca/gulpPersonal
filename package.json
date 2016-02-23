@@ -1,0 +1,21 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-changed": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-imagemin": "^2.2.0",
+    "gulp-minify-html": "^0.1.8",
+    "gulp-minify-css": "^0.4.5",
+    "gulp-strip-debug": "^1.0.2",
+    "gulp-uglify": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jdbrocca",
+  "license": "ISC"
+}
